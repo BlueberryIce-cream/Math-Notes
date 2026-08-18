@@ -6,4 +6,4 @@ Module Theory and Field Theory: https://www.overleaf.com/read/tfdcfhrgcwvr#450f9
 
 Commutative Algebra: https://www.overleaf.com/read/tfdcfhrgcwvr#450f96
 
-Exercise on Hartshorne: https://www.overleaf.com/read/jnsnnqvzwpch#8691bd
+Notes and Exercise on Hartshorne: https://www.overleaf.com/read/yszjrhwprftv#75df6c
