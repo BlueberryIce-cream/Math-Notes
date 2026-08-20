@@ -1,6 +1,7 @@
 # Math Notes
 
 <h3>Basics of Algebra</h3>
+
 These notes are based on the year-long graduate algebra sequence at UC San Diego, each file corresponding to one quarter's contents.
 
 Group Theory and Ring Theory: https://www.overleaf.com/read/tfdcfhrgcwvr#450f96
