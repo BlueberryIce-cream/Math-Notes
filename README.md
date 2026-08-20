@@ -4,7 +4,7 @@
 
 These notes are based on the year-long graduate algebra sequence at UC San Diego, each file corresponding to one quarter's contents.
 
-**Group Theory and Ring Theory**: https://www.overleaf.com/read/tfdcfhrgcwvr#450f96
+*Group Theory and Ring Theory*: https://www.overleaf.com/read/tfdcfhrgcwvr#450f96
 
 **Module Theory and Field Theory**: https://www.overleaf.com/read/zzvktynmxzfc#ae7c29
 
