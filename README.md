@@ -4,11 +4,11 @@
 
 These notes are based on the year-long graduate algebra sequence at UC San Diego, each file corresponding to one quarter's contents.
 
-Group Theory and Ring Theory: https://www.overleaf.com/read/tfdcfhrgcwvr#450f96
+**Group Theory and Ring Theory**: https://www.overleaf.com/read/tfdcfhrgcwvr#450f96
 
-Module Theory and Field Theory: https://www.overleaf.com/read/zzvktynmxzfc#ae7c29
+**Module Theory and Field Theory**: https://www.overleaf.com/read/zzvktynmxzfc#ae7c29
 
-Commutative Algebra: https://www.overleaf.com/read/bmnqmjhwcyqt#212c61
+**Commutative Algebra**: https://www.overleaf.com/read/bmnqmjhwcyqt#212c61
 
 <h3>Algebraic Geometry</h3>
 
