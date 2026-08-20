@@ -1,10 +1,14 @@
 # Math Notes
 
-<h3>This is medium-large</h3>
+<h3>Basics of Algebra</h3>
+These notes are based on the year-long graduate algebra sequence at UC San Diego, each file corresponding to one quarter's contents.
+
 Group Theory and Ring Theory: https://www.overleaf.com/read/tfdcfhrgcwvr#450f96
 
 Module Theory and Field Theory: https://www.overleaf.com/read/zzvktynmxzfc#ae7c29
 
 Commutative Algebra: https://www.overleaf.com/read/bmnqmjhwcyqt#212c61
 
-Notes and Exercise on Hartshorne: https://www.overleaf.com/read/yszjrhwprftv#75df6c
+<h3>Algebraic Geometry</h3>
+
+Notes and Solutions to Exercises on Hartshorne: https://www.overleaf.com/read/yszjrhwprftv#75df6c
