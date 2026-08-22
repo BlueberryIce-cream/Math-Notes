@@ -12,4 +12,4 @@ These notes are based on the year-long graduate algebra sequence at UC San Diego
 
 <h3>Algebraic Geometry</h3>
 
-*Notes and Solutions to Exercises on Algebraic Geometry by Robin Hartshorne*: https://www.overleaf.com/read/yszjrhwprftv#75df6c (Actively Updating)
+(Actively Updating) *Notes and Solutions to Exercises on Algebraic Geometry by Robin Hartshorne*: https://www.overleaf.com/read/yszjrhwprftv#75df6c
