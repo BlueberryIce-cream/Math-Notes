@@ -10,6 +10,7 @@ These notes are based on the year-long graduate algebra sequence at UC San Diego
 
 *Commutative Algebra*: https://www.overleaf.com/read/bmnqmjhwcyqt#212c61
 
+\\ \\
 
 <h3>Algebraic Geometry</h3>
 
