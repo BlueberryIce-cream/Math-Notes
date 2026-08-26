@@ -10,6 +10,7 @@ These notes are based on the year-long graduate algebra sequence at UC San Diego
 
 *Commutative Algebra*: https://www.overleaf.com/read/bmnqmjhwcyqt#212c61
 
+
 <h3>Algebraic Geometry</h3>
 
 *Notes and Solutions to Exercises on Algebraic Geometry by Robin Hartshorne* (Currently at Chapter I Section 4, Rational Maps): https://www.overleaf.com/read/yszjrhwprftv#75df6c
